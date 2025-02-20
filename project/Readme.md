@@ -24,8 +24,8 @@ Fonctionnalités principales :
 
 ### **1. Cloner le projet**
 ```bash
-git clone https://github.com/imad859/projet-flask.git
-cd projet-flask
+git clone https://github.com/imad859/project-secu.git
+cd project-secu/project
 ```
 
 ### **2. Créer un environnement virtuel (optionnel mais recommandé)**
