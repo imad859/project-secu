@@ -64,7 +64,7 @@ Si vous souhaitez ajouter un compte, entrez simplement un nouvel identifiant et 
 
 ## **Structure du projet**
 ```bash
-projet-flask/
+projet/
 │── static/
 │   ├── css/
 │   │   ├── style.css
@@ -96,14 +96,6 @@ projet-flask/
 - **Protection contre les doublons** lors de la création d'un compte  
 - **Validation côté client** (JavaScript) et serveur (Flask)  
 
----
-
-## **Améliorations possibles**
-- [ ] Ajouter la gestion des sessions pour une connexion persistante
-- [ ] Améliorer l'interface avec Bootstrap/Tailwind
-- [ ] Ajouter une page de profil utilisateur
-
----
 
 ## **Auteur**
 Projet développé par **Imad OUADI**.  
