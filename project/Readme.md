@@ -14,7 +14,7 @@ Fonctionnalités principales :
 
 ## **Technologies utilisées**
 
-- **Python 3** (Flask, SQLite3, bcrypt)
+- **Python 3** (Flask, bcrypt)
 - **HTML/CSS** (Interface utilisateur)
 - **JavaScript (Fetch API)** (Requêtes AJAX pour la connexion et l'ajout de compte)
 
